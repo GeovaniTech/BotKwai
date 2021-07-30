@@ -3,13 +3,14 @@
 > ### Status: Finalizado ✔️
 
 ## Descrição
-### Automação para ganhar Kwai Golds
+### Automação para ganhar Kwai Golds, aplicação fica assistindo e curtindo vídeos em tempos diferentes.
+
 
 ## Linguagem:
  
 + ### Python
 
-## Bilbiotecas:
+## Bibliotecas:
 
 + ### Pyautogui
 + ### Os
