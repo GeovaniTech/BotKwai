@@ -1,4 +1,4 @@
-# BotKawai
+# BotKwai
 
 > ### Status: Finalizado ✔️
 
